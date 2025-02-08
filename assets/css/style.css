@@ -847,9 +847,9 @@ Author:     Electronthemes
     color: var(--color-light);
     padding-bottom: 30px; }
 
-.banner-area .owl-item .banner-single-wrapper {
+/* .banner-area .owl-item .banner-single-wrapper {
   opacity: 0;
-  transition: .4s ease; }
+  transition: .4s ease; } */
 
 .banner-area .owl-item .banner-img-area h4 {
   transform: translateY(-100px); }
