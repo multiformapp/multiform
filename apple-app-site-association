@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "RL5T48PAR9.com.Starlink.mind.Starlink",
+                "paths": ["/path/*", "/anotherPath/*"]
+            }
+        ]
+    }
+}
